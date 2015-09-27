@@ -1,6 +1,6 @@
 Na temelju članka 13. Zakona o udrugama (Narodne Novine br. 74/14) (u nastavku teksta: Zakon), Skupština Udruge Hrvatsko mirmekološko društvo (u nastavku teksta: Udruga), na svojoj godišnjoj skupštini održanoj DD.MM.YYYY. godine u Zagrebu, donosi
 
-# STATUT HRVATSKOG MIRMEKOLOŠKOG DRUŠTVA
+# STATUT HRVATSKOG MIRMEKOLOŠKOG DRUŠTVA [RADNA VERZIJA]
 
 ### I. OPĆE ODREDBE
 
