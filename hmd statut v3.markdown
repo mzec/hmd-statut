@@ -278,7 +278,7 @@ Sve međusobne sporove proizašle iz članstva ili zaposlenika u Udruzi i/ili ak
 
 ### XV.  PRIJELAZNE I ZAVRŠNE  ODREDBE
 
-##### Članak 46.
+##### Članak 36.
 
 Ovaj Statut stupa na snagu danom donošenja na Skupštini Udruge
 
