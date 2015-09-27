@@ -214,7 +214,7 @@ Upravni odbor čine:
 
 * predsjednik kojeg bira Skupština neposrednim glasovanjem na temelju predloženog programa rada
 * dopredsjednik i tajnik  koje predlaže predsjednik Društva, a bira ih Skupština
-dva člana Upravnog odbora
+* dva člana Upravnog odbora
 
 ##### Članak 27.
 
