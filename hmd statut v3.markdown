@@ -102,6 +102,9 @@ Načela djelovanja Udruge su: poštivanje različitosti stavova, misli i ideja, 
 
 3. Počasnim članom Udruge mogu postati osobe koje su dale poseban doprinos radu Udruge ili mirmekologiji u Hrvatskoj. Prijedlog za počasno članstvo može dati svaki član Udruge, a odluku o tome donosi Upravni odbor.
 
+4. Popis članova vodi se elektronički i obvezno sadrži podatke o osobnom imenu (nazivu) člana, OIB-u, datumu rođenja, datumu pristupanja udruzi, kategoriji članstva, ako su utvrđene statutom te datumu prestanka članstva u udruzi. 
+Popis članova uvijek je dostupan na uvid svim članovima i nadležnim tijelima na njihov zahtjev.
+
 ##### Članak 13.
 
 Odluku o uvođenju, ukidanju i iznosu članarine donosi Skupština.
@@ -143,7 +146,7 @@ isključenjem iz Udruge odlukom Upravnog odbora i to ako je član radio protivno
 
 1. Udruga se može udruživati u saveze ili zajednice udruga.
 2. Udruga se može učlanjivati u međunarodne udruge.
-3. Odluku o udruživanju, odnosno učlanjivanju Udruge donosi Upravni odbor.
+3. Odluku o udruživanju, odnosno učlanjivanju Udruge donosi Skupština.
 
 ##### Članak 18.
 
@@ -160,6 +163,7 @@ Tijela Udruge jesu:
 * Skupština
 * Upravni odbor
 * Predsjednik
+* Dopredsjednik
 
 #### SKUPŠTINA
 
@@ -188,6 +192,8 @@ Skupština kao najviše tijelo Udruge obavlja sljedeće djelatnosti:
 
 3. U odluci o sazivanju skupštine predsjednik društva utvrđuje dnevni red sjednice te dan i mjesto održavanja sjednice. Skupštinom predsjedava predsjednik Društva.
 
+4. U slučaju isteka mandata tijelima Udruge Skupštinu Udruge saziva zadnja osoba za zastupanje upisana u Registar udruga ili 12 članova Udruge, koji su upisani u popis članova prije isteka mandata tijelima Udruge.
+
 ##### Članak 23.
 
 1. Izvanrednu sjednicu Skupštine saziva predsjednik društva na zahtjev Upravnog odbora ili više od 50% redovnih članova Udruge. U svom zahtjevu za sazivanje skupštine predlagatelj je obvezan predložiti dnevni red sjednice.
@@ -206,7 +212,7 @@ Skupština može valjano odlučivati ako joj prisustvuje više od 50% redovnih �
 
 ##### Članak 25.
 
-Upravni odbor Udruge je izvršno tijelo Udruge i sastoji se od pet (5) članova, koji moraju biti redovni članovi Udruge, s trajanjem mandata od 4 godine. 
+Upravni odbor Udruge je izvršno tijelo Udruge i sastoji se od pet (5) članova, koji moraju biti redovni članovi Udruge, s trajanjem mandata od 5 godina. 
 
 ##### Članak  26.
 
@@ -231,10 +237,39 @@ Upravni odbor donosi odluke na svojim sjednicama i to natpolovičnom većinom gl
 
 ##### Članak 29.
 
-1. Predsjednik Društva istovremeno je i predsjednik Upravnog odbora.
+1. Predsjednik Društva zastupa Udrugu, te je istovremeno i predsjednik Skupštine i Upravnog odbora.
 2. Predsjednik Upravnog odbora saziva sjednice Upravnog odbora i Skupštine na prijedlog članova Upravnog odbora, predsjedava im i potpisuje odluke i akte.
 3. U slučaju spriječenosti ili odsutnosti predsjednika zamjenjuje ga dopredsjednik Društva.
-Dopredsjednik Društva istovremeno je i dopredsjednik Upravnog odbora.
+4. Dopredsjednik Društva istovremeno je i dopredsjednik Upravnog odbora.
+
+###### Članak 30.
+
+Predsjednik:
+
+- odgovara za zakonitost rada Udruge. 
+- upravlja Udrugom u skladu sa zakonom, Statutom, aktima Udruge te odlukama Skupštine, UO i NO
+- saziva Skupštinu i vodi Sjednice, te predlaže dnevni red
+- dostavlja zapisnik s redovne sjednice skupštine nadležnom uredu koji vodi registar Udruga
+- odgovoran je za podnošenje prijedloga godišnjeg financijskog izvješća te izvješća o radu skupštini
+- predlaže program rada i financijski plan Udruge
+- zastupa i predstavlja Udrugu u odnosima s drugim subjektima
+- sklapa ugovore i poduzima druge pravne radnje u ime i za račun Udruge
+- izvršava odluke Skupštine
+- promovira interese i programe Udruge
+- osigurava protok informacija unutar Udruge
+- obavlja i druge poslove u skladu sa zakonom, Statutom i aktima Udruge
+
+
+##### Članak 28.
+
+U slučaju da Predsjednik ne izvršava svoje obveze, djeluje protivno zakonu, Statutu, ili šteti ugledu Udruge, Skupština donosi odluku o opozivu sukladno s člankom 27. ovog Statuta.
+
+
+##### Članak 29.
+
+1. Dopredsjednik zastupa Udrugu, predsjeda sjednicama Skupštine i UO u odsutnosti Predsjednika Udruge.
+2. Dopredsjednik Udruge ujedno je i član Skupštine te član UO. 
+
 
 ##### Članak 30.
 
@@ -268,9 +303,9 @@ Dopredsjednik Društva istovremeno je i dopredsjednik Upravnog odbora.
 ##### Članak 34.
 
 1. Djelovanje Udruge može prestati iz razloga utvrđenih Zakonom i odlukom Skupštine usvojenom od strane dvije trećine svih članova Udruge.
-2. U slučaju prestanka postojanja Udruge, njena imovina se nakon ispunjena zakonskih obveza prenosi na drugu udrugu(e) koje imaju slične ciljeve i djelatnosti, a odluku o tome (izbor udruge) donijet će Skupština.
+2. U slučaju prestanka postojanja Udruge, njena imovina se nakon ispunjenja zakonskih obveza prenosi na drugu udrugu(e) koje imaju slične ciljeve i djelatnosti, a odluku o tome (izbor udruge) donijet će Skupština.
 
-### XIV. NAČIN RJEŠAVANJA SPOROVA I SUKOBA INTERESA UNUTAR UDRUGE 
+### XIV. NAČIN RJEŠAVANJA SPOROVA I SUKOBA INTERESA UNUTAR UDRUGE
 
 ##### Članak 35.
 
