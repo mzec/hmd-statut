@@ -212,7 +212,7 @@ Skupština može valjano odlučivati ako joj prisustvuje više od 50% redovnih �
 
 ##### Članak 25.
 
-Upravni odbor Udruge je izvršno tijelo Udruge i sastoji se od pet (5) članova, koji moraju biti redovni članovi Udruge, s trajanjem mandata od 5 godina. 
+Upravni odbor Udruge je izvršno tijelo Udruge i sastoji se od pet (5) članova, koji moraju biti redovni članovi Udruge, s trajanjem mandata od 4 godine. 
 
 ##### Članak  26.
 
