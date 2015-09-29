@@ -315,8 +315,9 @@ Sve međusobne sporove proizašle iz članstva ili zaposlenika u Udruzi i/ili ak
 Ovaj Statut stupa na snagu danom donošenja na Skupštini Udruge.
 
 U Zagrebu, 28. rujna 2015. godine
-<div align="center">
+<div align="right">
 Predsjednik Društva,
+
 Mate Zec
 </div>
 
