@@ -1,6 +1,6 @@
-Na temelju članka 13. Zakona o udrugama (Narodne Novine br. 74/14) (u nastavku teksta: Zakon), Skupština Udruge Hrvatsko mirmekološko društvo (u nastavku teksta: Udruga), na svojoj godišnjoj skupštini održanoj DD.MM.YYYY. godine u Zagrebu, donosi
+Na temelju članka 13. Zakona o udrugama (Narodne Novine br. 74/14) (u nastavku teksta: Zakon), Skupština Udruge Hrvatsko mirmekološko društvo (u nastavku teksta: Udruga), na svojoj godišnjoj skupštini održanoj 28. rujna 2015. godine u Zagrebu, donosi
 
-# STATUT HRVATSKOG MIRMEKOLOŠKOG DRUŠTVA [RADNA VERZIJA]
+# STATUT HRVATSKOG MIRMEKOLOŠKOG DRUŠTVA
 
 ### I. OPĆE ODREDBE
 
@@ -142,7 +142,7 @@ isključenjem iz Udruge odlukom Upravnog odbora i to ako je član radio protivno
 
 ### IX.	UDRUŽIVANJE UDRUGE
 
-##### Članak 17. 
+##### Članak 17.
 
 1. Udruga se može udruživati u saveze ili zajednice udruga.
 2. Udruga se može učlanjivati u međunarodne udruge.
@@ -192,7 +192,7 @@ Skupština kao najviše tijelo Udruge obavlja sljedeće djelatnosti:
 
 3. U odluci o sazivanju skupštine predsjednik društva utvrđuje dnevni red sjednice te dan i mjesto održavanja sjednice. Skupštinom predsjedava predsjednik Društva.
 
-4. U slučaju isteka mandata tijelima Udruge Skupštinu Udruge saziva zadnja osoba za zastupanje upisana u Registar udruga ili 12 članova Udruge, koji su upisani u popis članova prije isteka mandata tijelima Udruge.
+4. U slučaju isteka mandata tijelima Udruge Skupštinu Udruge saziva zadnja osoba za zastupanje upisana u Registar udruga ili 6 članova Udruge, koji su upisani u popis članova prije isteka mandata tijelima Udruge.
 
 ##### Članak 23.
 
@@ -260,64 +260,62 @@ Predsjednik:
 - obavlja i druge poslove u skladu sa zakonom, Statutom i aktima Udruge
 
 
-##### Članak 28.
+##### Članak 31.
 
 U slučaju da Predsjednik ne izvršava svoje obveze, djeluje protivno zakonu, Statutu, ili šteti ugledu Udruge, Skupština donosi odluku o opozivu sukladno s člankom 27. ovog Statuta.
 
-
-##### Članak 29.
+##### Članak 32.
 
 1. Dopredsjednik zastupa Udrugu, predsjeda sjednicama Skupštine i UO u odsutnosti Predsjednika Udruge.
 2. Dopredsjednik Udruge ujedno je i član Skupštine te član UO. 
 
-
-##### Članak 30.
+##### Članak 33.
 
 1. Tajnik Udruge vodi i sastavlja zapisnike sjednica Upravnog odbora i Skupštine, organizira i odgovoran je za administrativne poslove, vrši financijske poslove vezane uz rad Udruge, vodi Knjigu članova i naplaćuje članarinu.
 2. U slučaju spriječenosti ili odsutnosti tajnika dužnosti tajnika preuzima jedan član Upravnog odbora kojeg ovlasti Upravni odbor.
 
 ### XI.  IZBOR I OPOZIV LIKVIDATORA UDRUGE
 
-##### Članak 31.
+##### Članak 34.
 
 1. Likvidatora Udruge bira i opoziva Skupština na prijedlog UO-a. 
 2. Likvidator može biti i osoba koja nije član Udruge.  
 3. Likvidator zastupa udrugu u postupku likvidacije te se otvaranjem likvidacijskog postupka upisuje u registar udruga kao osoba ovlaštena za zastupanje udruge do okončanja postupka likvidacije i brisanja udruge iz registra udruga.      
 
-
 ### XII. NAČIN STJECANJA I RASPOLAGANJA IMOVINOM UDRUGE
 
-##### Članak 32.
+##### Članak 35.
 
 1. Udruga pribavlja novčana sredstava iz članarina, donacija, poklona, financiranjem iz državnog proračuna i/ili proračuna regionalne i lokalne samouprave, kroz gospodarsku djelatnost te iz drugih dopuštenih izvora i koristi ih za ostvarivanje svojih ciljeva, a o njihovoj raspodjeli odlučuje UO.
 2. Za opravdane troškove učinjene u vezi s obavljanjem djelatnosti Udruge članovi imaju pravo na naknadu koju odobrava UO na temelju priloženih računa.
 3.  Udruga vodi poslovne knjige i sastavlja financijska izvješća sukladno propisima kojima se uređuje način financijskog poslovanja i vođenja računovodstva neprofitnih organizacija.
 
-##### Članak 33.
+##### Članak 36.
 
 1.  Ako Udruga provodi programe i projekte od interesa za opće dobro financirane iz javnih izvora najmanje jedanput godišnje o svome radu, opsegu, načinu stjecanja i korištenja sredstava izvještava davatelja sredstava, a putem mrežne stranice ili na drugi odgovarajući način obavještava i širu javnost.
 2.  Sredstva prikupljena sukladno st. 1. ovog članka Udruga može koristiti isključivo za provedbu odobrenih programa ili projekata.
 
 ### XIII. PRESTANAK POSTOJANJA UDRUGE I POSTUPAK S IMOVINOM 
 
-##### Članak 34.
+##### Članak 37.
 
 1. Djelovanje Udruge može prestati iz razloga utvrđenih Zakonom i odlukom Skupštine usvojenom od strane dvije trećine svih članova Udruge.
 2. U slučaju prestanka postojanja Udruge, njena imovina se nakon ispunjenja zakonskih obveza prenosi na drugu udrugu(e) koje imaju slične ciljeve i djelatnosti, a odluku o tome (izbor udruge) donijet će Skupština.
 
 ### XIV. NAČIN RJEŠAVANJA SPOROVA I SUKOBA INTERESA UNUTAR UDRUGE
 
-##### Članak 35.
+##### Članak 38.
 
 Sve međusobne sporove proizašle iz članstva ili zaposlenika u Udruzi i/ili aktivnostima u sklopu djelovanja Udruge, članovi ili zaposlenici obvezuju se riješiti mirnim putem uz arbitražu UO-a.
 
 ### XV.  PRIJELAZNE I ZAVRŠNE  ODREDBE
 
-##### Članak 36.
+##### Članak 39.
 
-Ovaj Statut stupa na snagu danom donošenja na Skupštini Udruge
+Ovaj Statut stupa na snagu danom donošenja na Skupštini Udruge.
 
-Predsjednik Društva,
+U Zagrebu, 28. rujna 2015. godine
 
+									Predsjednik Društva,
+									Mate Zec
 
-U Zagrebu, DD.MM.YYYY
