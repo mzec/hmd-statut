@@ -316,8 +316,7 @@ Ovaj Statut stupa na snagu danom donošenja na Skupštini Udruge.
 
 U Zagrebu, 28. rujna 2015. godine
 <div align="right">
-Predsjednik Društva,
-
+Predsjednik Društva,<br>
 Mate Zec
 </div>
 
